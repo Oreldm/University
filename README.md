@@ -1,3 +1,4 @@
 # University
-University Management System written in CPP
+University Management System. 
+Written in CPP , 
 made by Ariel Sgl & Orel Damari
